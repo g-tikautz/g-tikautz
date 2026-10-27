@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="t">
+  <title id="t">Gregor Tikautz — Artificial Intelligence, JKU Linz</title>
+  <rect width="1200" height="240" rx="12" fill="#f6f8fa"/>
+  <rect x="64" y="66" width="4" height="108" fill="#0f766e"/>
+  <text x="96" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="600" fill="#1f2328">Gregor Tikautz</text>
+  <text x="96" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">Artificial Intelligence · JKU Linz</text>
+  <text x="96" y="176" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0f766e">software development · machine learning · nlp</text>
+  <g fill="#d1d9e0">
+    <circle cx="860" cy="70" r="3"/><circle cx="920" cy="70" r="3"/><circle cx="980" cy="70" r="3"/><circle cx="1040" cy="70" r="3"/><circle cx="1100" cy="70" r="3"/>
+    <circle cx="860" cy="120" r="3"/><circle cx="920" cy="120" r="3"/><circle cx="980" cy="120" r="3"/><circle cx="1040" cy="120" r="3"/><circle cx="1100" cy="120" r="3"/>
+    <circle cx="860" cy="170" r="3"/><circle cx="920" cy="170" r="3"/><circle cx="980" cy="170" r="3"/><circle cx="1040" cy="170" r="3"/><circle cx="1100" cy="170" r="3"/>
+  </g>
+  <g stroke="#0f766e" stroke-width="1.5" stroke-opacity="0.5" fill="none">
+    <path d="M860 120 L920 70 L980 120 L1040 70 L1100 120"/>
+    <path d="M920 70 L980 170 L1040 70"/>
+    <path d="M860 170 L920 120 L980 170"/>
+  </g>
+  <g fill="#0f766e">
+    <circle cx="920" cy="70" r="4.5"/><circle cx="980" cy="120" r="4.5"/><circle cx="1040" cy="70" r="4.5"/><circle cx="980" cy="170" r="4.5"/>
+  </g>
+</svg>
